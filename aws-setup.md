@@ -1,5 +1,3 @@
-
-Step-by-Step Instructions
 Step 1: Create an AWS Account
 Navigate to the AWS Website: Go to AWS website.
 Click on "Create an AWS Account": This will redirect you to the sign-up page.
@@ -44,6 +42,4 @@ Save and exit the editor.
 Run Your Script:
 Execute the script: python3 add_numbers.py.
 Step 6: Confirm Execution
-Verify Output: Check the console for the expected output from your Python script.
-Conclusion
-
+Verify Output: Check the console for the expected output from your Python script 
