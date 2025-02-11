@@ -43,3 +43,4 @@ Run Your Script:
 Execute the script: python3 add_numbers.py.
 Step 6: Confirm Execution
 Verify Output: Check the console for the expected output from your Python script 
+by following above procedure we can complete aws acc setup
